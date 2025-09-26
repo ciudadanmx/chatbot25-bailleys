@@ -143,6 +143,5 @@ const main = async () => {
     QRPortalWeb()
 }
 
-//si
 
 main()
