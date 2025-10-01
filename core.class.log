@@ -1,0 +1,103 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215559099956@s.whatsapp.net',
+    fromMe: false,
+    id: '3F21142DD97868946CA4',
+    participant: undefined
+  },
+  messageTimestamp: 1758789804,
+  pushName: 'Abraham Yisus 420',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5215559099956'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_265bdc21-29c4-456f-8bb7-0e5a4f645ce6',
+  keyword: 'key_fd0223a5-652a-4a2c-81f4-e026f6c09275',
+  answer: '🙌 Hola bienvenido al *Chatbot Publia.Club*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0435d7c8b9798c2e79e862bc53c1ca34'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b1e0f84d-2abe-4e75-9efa-7175e010e8af',
+  keyword: 'ans_265bdc21-29c4-456f-8bb7-0e5a4f645ce6',
+  answer: '❌ Éste es un Chatbot de prueba que no está hecho con la API Oficial de Meta, por lo que sus funcionalidades son limitadas, no tiene botones e incluso presenta algunas fallas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebe51aefc1ecacbe83f42c4a6088c351'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99c24fbd-b737-4f32-9b17-9e850798350b',
+  keyword: 'ans_b1e0f84d-2abe-4e75-9efa-7175e010e8af',
+  answer: '😺 No obstante se muestran algunas opciones favor de responder mensaje con alguna de las palabras exactas resaltadas con negritas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37ee6c6f2c5a8a936a503f31c872de4d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2c0c0cdd-6b35-4c70-8451-26181272505c',
+  keyword: 'ans_99c24fbd-b737-4f32-9b17-9e850798350b',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *info* para conocer la info de Publia.MX\n' +
+    '👉 *chatbot*  para conocer los Chatbots para Whatsapp\n' +
+    '👉 *API* para las intrucciones para registrar tu número con la API oficial de Meta',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2c085566aa74fa15d45d339cde8bfbce'
+}
